@@ -1,0 +1,18 @@
+input{
+    text-decoration: bold;
+    background-color: transparent;
+    border: 0;
+    font-size: 25px;
+    text-align: left;
+}
+input:focus{
+    outline: none;
+}
+::placeholder{
+    color: black;
+    opacity: 1;
+}
+p{
+    font-size: 25px;
+    text-align: left;
+}
